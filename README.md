@@ -6,3 +6,7 @@
  * Can see your top-played songs over "short-term", "medium-term", and "long-term" time periods.
  
  * Created functions to simplify the extraction of the required metadata for a track and accessing/displaying search results. This was done because Spotify has an extremely large amount of metadata for each track, and getting the data that you require can be quite complicated, messy, and time-consuming.
+
+A quick example of what the searching and recommendation process looks like:
+
+![spotify-playlist-demo](https://github.com/arnavprasad7/Spotify-analysis/blob/main/spotify_playlist_demo.gif)
